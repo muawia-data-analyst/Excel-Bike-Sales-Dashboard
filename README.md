@@ -26,7 +26,6 @@ To practice the full Excel analyst workflow: cleaning raw data, building Pivot T
 
 ##  Files in This Repository
 - `Bike_Sales_Project.xlsx` — full Excel workbook (raw data, working sheet, pivot tables, dashboard)
-- `dashboard_screenshot.png` — preview image of the final dashboard
 
 ##  How to View
 Download the `.xlsx` file and open in Microsoft Excel (2010 or later, for slicer support) to interact with the dashboard yourself.
