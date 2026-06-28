@@ -1,4 +1,3 @@
-# Excel-Bike-Sales-Dashboard
 # Bike Sales Dashboard — Excel
 
 ##  Overview
