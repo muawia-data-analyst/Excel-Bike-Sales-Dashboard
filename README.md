@@ -1,7 +1,7 @@
 # Bike Sales Dashboard — Excel
 
 ##  Overview
-An interactive Excel dashboard analyzing bike sales data — exploring how customer demographics like age, gender, and commute distance relate to bike purchase decisions.
+An interactive Excel dashboard analyzing bike sales data exploring how customer demographics like age, gender, and commute distance relate to bike purchase decisions.
 
 ##  Objective
 To practice the full Excel analyst workflow: cleaning raw data, building Pivot Tables, creating calculated fields, and designing an interactive dashboard with slicers.
@@ -21,7 +21,7 @@ To practice the full Excel analyst workflow: cleaning raw data, building Pivot T
 ##  Key Insights
 - Customers with higher average income were more likely to purchase a bike across both genders
 - Middle-aged customers showed the highest purchase activity compared to adolescents and older age groups
-- Customers commuting longer distances (10+ miles) were more likely to purchase a bike — likely cycling as a transport alternative
+- Customers commuting longer distances (10+ miles) were more likely to purchase a bike likely cycling as a transport alternative
 
 ##  Files in This Repository
 - `Bike_Sales_Project.xlsx` — full Excel workbook (raw data, working sheet, pivot tables, dashboard)
